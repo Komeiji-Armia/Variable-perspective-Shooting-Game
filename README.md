@@ -1,0 +1,2 @@
+# Variable-perspective-Shooting-Game
+このプロジェクトは授業で作成した成果物をそのままリポジトリに入れています
